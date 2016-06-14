@@ -1,13 +1,4 @@
-# mediasrv_linux
-1)
-chmod 777 ./mediasrv
-chmod 777 ./mediasrv_sh
-chmod 777 ./mediasrv_screen
-chmod 777 ./mediasrv_gdb
 
-if you want use screen start the application, you must install screen command first,if you not 
-installed it
-2)  
 access address
 
 HLS http://127.0.0.1:280/chid/playlist.m3u8 
