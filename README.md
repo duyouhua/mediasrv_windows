@@ -1,4 +1,4 @@
-# ETS Mediasrv
+﻿# ETS Mediasrv
 
 ETS Mediasrv which is an excellent cross-platform Live Streaming Server, developed by f117cdh.
 
@@ -11,5 +11,8 @@ Supported protocols:
 
 For commercial support, please contact   f117cdh@qq.com.
 
+
+for detail goto  https://github.com/WilsonDhChen/mediasrv_linux　　
+详情介绍查看　Linux版本哦　https://github.com/WilsonDhChen/mediasrv_linux　　
 
 
