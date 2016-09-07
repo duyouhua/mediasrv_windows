@@ -4,7 +4,7 @@ print("The Lua plugin worked in multithread");
 print("Lua 插件工作在多线程环境中请谨慎编程");
 print("/************************************/");
 
-require("socket")
+
 
 ---MySQL测试代码
 envMysql = luasql.mysql.mysql();
